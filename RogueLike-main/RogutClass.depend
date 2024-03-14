@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1705924917 source:c:\code\rogutclass\main.cpp
+	"imports.h"
+	"Game.h"
+	"intro.h"
+	<curses.h>
+
+1689180359 c:\pdcurse\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1705926320 source:c:\code\rogutclass\item.cpp
+	"Item.h"
+	"imports.h"
+
+1705923433 c:\code\rogutclass\item.h
+
+1705924871 c:\code\rogutclass\imports.h
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"Singleton.h"
+
+1705931180 c:\code\rogutclass\singleton.h
+
+1705924561 c:\code\rogutclass\game.h
+
+1705925018 c:\code\rogutclass\intro.h
+
+1705923405 source:c:\code\rogutclass\map.cpp
+	"Map.h"
+	"imports.h"
+
+1705923440 c:\code\rogutclass\map.h
+
+1705923410 source:c:\code\rogutclass\monster.cpp
+	"Monster.h"
+	"imports.h"
+
+1705923484 c:\code\rogutclass\monster.h
+
+1705923416 source:c:\code\rogutclass\singleton.cpp
+	"Singleton.h"
+	"Singleton.h"
+
+1705923420 source:c:\code\rogutclass\trap.cpp
+	"Trap.h"
+	"imports.h"
+
+1705923465 c:\code\rogutclass\trap.h
+
+1705924911 source:c:\code\rogutclass\game.cpp
+	"imports.h"
+	"Game.h"
+	"Trap.h"
+	"Map.h"
+	"Monster.h"
+	"Item.h"
+	"intro.h"
+
+1705907194 source:c:\code\rogutclass\global.cpp
+
+1705924396 source:c:\code\rogutclass\intro.cpp
+	"intro.h"
+	"imports.h"
+
